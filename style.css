@@ -116,52 +116,61 @@ margin: auto;
 	text-align: center;
 }
 .panel-1{
+padding:10px;
 	width: 319px;
 height: 495px;
 background: #343434;
 border-radius: 30px;
 color: white;
 margin: auto;
+margin-bottom: 20px;
 }
 .panel-img{
+	margin-left: 10px;
 	width: 100px;
 	height: 100px;
 	border-radius: 100px;
+	object-fit:cover;
+	object-position: 0px 3px;
 }
 .panel-text{
 	font-family: Inter;
+	margin-left: 10px;
 }
 .panel-info{
 	font-size: 18px;
 }
 .panel-2{
-	width: 330px;
-height: 395px;
+	width: 319px;
+height: 355px;
 background:#FEE42A ;
 border-radius: 30px;
 color: black;
 margin: auto;
+padding: 10px;
 }
 .panel-info2{
 	margin-top: 20px;
 	font-size: 18px;
 }
 .panel-3{
-	width: 319px;
+	width: 310px;
 height: 495px;
 background: #343434;
 border-radius: 30px;
 color: white;
 margin: auto;
 margin-top: 30px;
+padding: 10px;
 }
 .footer{
-	width: 360px;
+	width: 340px;
 height: 62px;
 border: 2px solid yellow;
 background:black ;
 margin: auto;
 color: white;
+padding: 10px;
 }
 .text-1{
 	margin-top: -40px;
