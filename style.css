@@ -1,0 +1,172 @@
+.body{
+width: 360px;
+height: 760px;
+background:#131313 ;
+margin: auto;
+
+}
+.header{
+	width: 360px;
+height: 132px;
+background:#131313 ;
+color: white;
+margin-top: -15px;
+}
+.VЁRSTKA{
+	font-family: 'Inter', sans-serif;
+	 font-weight: bold;
+}
+.right{
+text-align: right;
+margin-top: -30px;	
+font-family: 'Inter', sans-serif;
+}
+.header-text {
+    text-align: right;
+    text-decoration: underline;
+}
+.title{
+	width: 330px;
+height: 198px;
+background-image: url('image.png');
+margin: auto;
+color: white;
+
+}
+.title-maintext{
+	font-size: 64px;
+	margin-top: -15px;
+}
+.title-text{
+font-size: 64px;
+	margin-top: -75px;	
+	margin-left: 50px;
+}
+.title-minitext{
+	font-size: 64px;
+	margin-top: -75px;
+	margin-left: 130px;
+}
+.black-content{
+	width: 320px;
+	height: 453px;
+	color: white;
+	margin: auto;
+}
+.black-text{
+width: 160px;
+}
+.black-data{
+margin-left: 200px;
+margin-top: -50px;
+}
+.black-info{
+	margin-top: 40px;
+font-size: 17px;
+}
+.yellow-content{
+	background: #FEE42A;
+	width: 360px;
+	height: 1368px;
+	color: black;
+	margin: auto;
+	margin-top: -50px;
+}
+.yellow-title{
+	margin-left: 30px;
+width: 300px;
+height: 63px;
+font-size: 20px;
+}
+.yellow-info{
+	font-family: Inter;
+width:300px ;
+margin: auto;
+font-size: 19px;
+}
+.yellow-text{
+	margin-top: 40px;
+	font-family: Inter;
+margin: auto;
+margin-top: 30px;
+font-size: 19px;
+width: 320px;
+}
+.black-contents{
+	margin-top: -20px;
+	width: 360px;
+height: 1649px;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+top: 2289px;
+left: 20px;
+background: black;
+color: white;
+margin: auto;
+}
+.black-title{
+	margin-top: -20px;
+	font-size: 20px;
+	text-align: center;
+}
+.black-minitext{
+	width: 330px;
+	font-size: 20px;
+	text-align: center;
+}
+.panel-1{
+	width: 319px;
+height: 495px;
+background: #343434;
+border-radius: 30px;
+color: white;
+margin: auto;
+}
+.panel-img{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+}
+.panel-text{
+	font-family: Inter;
+}
+.panel-info{
+	font-size: 18px;
+}
+.panel-2{
+	width: 330px;
+height: 395px;
+background:#FEE42A ;
+border-radius: 30px;
+color: black;
+margin: auto;
+}
+.panel-info2{
+	margin-top: 20px;
+	font-size: 18px;
+}
+.panel-3{
+	width: 319px;
+height: 495px;
+background: #343434;
+border-radius: 30px;
+color: white;
+margin: auto;
+margin-top: 30px;
+}
+.footer{
+	width: 360px;
+height: 62px;
+border: 2px solid yellow;
+background:black ;
+margin: auto;
+color: white;
+}
+.text-1{
+	margin-top: -40px;
+	text-align: right;
+}
+.text-2{
+	text-align: right;	
+}
